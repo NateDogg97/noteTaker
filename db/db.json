@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text",
+        "note_id": "2n3d"
+    },
+    {
+        "title": "Hello",
+        "text": "This is a note",
+        "note_id": "d85f2991-861e-4469-ab39-cc2fe31d93fd"
+    },
+    {
+        "title": "Delete me!",
+        "text": "You are welcome to delete this note to test the sites functionality.",
+        "note_id": "5619847c-0765-46a2-90fd-5ad00acc2603"
+    }
+]
