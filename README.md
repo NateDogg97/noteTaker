@@ -32,6 +32,7 @@
   ## Usage
 
   Simply open an integrated terminal on the server.js file and type 'npm i' and 'node server' to host it on localhost:3001.
+  A link showing the site's functionality is here: https://drive.google.com/file/d/1-SPN4m7hP8c9qpK_x1eV_zyxn1DAaS9N/view
 
   ## Contributing
 
