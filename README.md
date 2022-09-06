@@ -23,11 +23,12 @@
 
   ## Description
 
+  Live site is deployed through Heroku here: https://arcane-basin-41072.herokuapp.com/
   Note Taker is a convenient tool you may use to keep track of your thoughts. It is useful for a busy mind that needs help organizing their day / week. The user is able to write and delete notes. The motivation for this project was to help myself and others stay organized, as organization is critical for efficiency. I wanted to boost my efficiency with structuring my day and keeping my thoughts in a convenient place. I built this project to learn about using express.js. This software solves a need for a note pad app on your device. I learned the basics of using express.js and how to deal with get, post, and delete requests.
 
   ## Installation
 
-  Install this app by cloning it onto your local machine.
+  Install this app by cloning it onto your local machine. 
 
   ## Usage
 
