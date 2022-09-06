@@ -33,6 +33,11 @@
 
   Simply open an integrated terminal on the server.js file and type 'npm i' and 'node server' to host it on localhost:3001.
   A link showing the site's functionality is here: https://drive.google.com/file/d/1-SPN4m7hP8c9qpK_x1eV_zyxn1DAaS9N/view
+  
+  <img width="1180" alt="Screen Shot 2022-09-06 at 1 53 21 PM" src="https://user-images.githubusercontent.com/106997623/188716066-3cf3a38f-c7d5-47f4-b172-3a753024bf6a.png">
+
+<img width="1181" alt="Screen Shot 2022-09-06 at 1 52 45 PM" src="https://user-images.githubusercontent.com/106997623/188716103-14f92c6b-f5a1-4963-99b4-0919d0888b3a.png">
+
 
   ## Contributing
 
