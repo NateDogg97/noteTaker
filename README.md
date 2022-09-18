@@ -46,7 +46,7 @@
 
   ## Tests
 
-  Testing is just a matter of running the program on your device. There's nothing special about this project as far as testing.
+  Testing is just a matter of running the program on your device. Feel free to use it to your heart's desire!
 
   ## Questions
 
